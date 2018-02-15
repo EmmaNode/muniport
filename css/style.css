@@ -8,7 +8,11 @@ Custom Stylesheet
 
 nav ul a,
 nav .brand-logo {
-  color: ##E4C984;
+  color: #E4C984;
+}
+
+nav ul a {
+  color: #E4C984;
 }
 
 .brand-logo img {
@@ -21,8 +25,11 @@ h1, h2, h3, h4, h5{
 
 a {
   font-family: 'Poiret One', cursive;
-
 }
+
+/* body {
+  background: #E4C984
+} */
 
 p {
   line-height: 2rem;
@@ -34,7 +41,7 @@ p {
 }
 
 .first-section {
-  background: #836f7d;
+  background: #fff;
   opacity: 0.5;
 }
 
